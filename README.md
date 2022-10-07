@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wisdom-Ojonugwa
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html,Css,Javascript
+- 🌱 I’m currently learning Html,Css,Javascript will be moving to back end soon
 - Although I just started....Started on the 20th of July,2022
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me whatsapp:+2347019844118...calls to can go on there.
